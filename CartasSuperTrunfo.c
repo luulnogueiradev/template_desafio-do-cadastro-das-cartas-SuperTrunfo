@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main() {
+    
 
     /* CARTA SUPER TRUNFO - 01 */
 
