@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    
+    /* DESAFIO - CARTAS SUPER TRUNFO - SI - ESTÁCIO*/
 
     /* CARTA SUPER TRUNFO - 01 */
 
